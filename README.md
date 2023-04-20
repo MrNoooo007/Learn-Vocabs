@@ -1,5 +1,7 @@
 # The process to learn vocab :)))
 
+## 1. 19-04-23
+
 1. engage (v): thue, muon
 
 2. obligate (v): tuan thu
@@ -9,6 +11,8 @@
 4. convince (v): thuyet phuc
 
 5. fad (v): thoi trang nhat thoi
+
+## 2. 20-04-23
 
 6. recur (v): lap lai
 
